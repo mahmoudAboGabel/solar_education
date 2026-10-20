@@ -53,7 +53,7 @@ export default function AboutPage() {
           </div>
           <div className="flex flex-col items-end">
             <span className="bg-blue-100 text-blue-900 px-4 py-1 rounded-full text-xs font-bold mb-1">
-              تكنولوجيا التعليم - الفرقة الثالثة
+              تكنولوجيا التعليم - الفرقة الرابعة شعبة معلم حاسب 2026/2027
             </span>
             <span className="text-[10px] text-gray-400">كلية التربية النوعية</span>
           </div>
