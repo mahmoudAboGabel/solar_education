@@ -42,7 +42,7 @@ export default function RootLayout({ children }) {
             </div>
             <p className="mb-2 font-semibold">إعداد الطالبة: سارة</p>
             <p className="text-sm text-gray-500">
-              قسم تكنولوجيا التعليم - الفرقة الثالثة &copy; {new Date().getFullYear()}
+              قسم تكنولوجيا التعليم - الفرقة الرابعة شعبة معلم حاسب 2026/2027 &copy; {new Date().getFullYear()}
             </p>
           </div>
         </footer>
